@@ -25,8 +25,8 @@ I'm a passionate developer and machine learning enthusiast with a knack for crea
 ![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=YourUsername&layout=compact&theme=radical)
 
 ## 📫 Let's Connect!
-- **LinkedIn**: [Your LinkedIn](https://linkedin.com/in/yourprofile)
-- **Twitter**: [Your Twitter](https://twitter.com/yourprofile)
-- **Website**: [Your Personal Site or Blog](https://yourwebsite.com)
+- **LinkedIn**: [Tulsi Prasad Mohanty](https://www.linkedin.com/in/tulsi-prasad-mohanty-96ab48214/)
+- **Twitter**: [_Super_Vibe_](https://x.com/_Super_Vibe_)
+- **Website**: [Your Personal Site or Blog](https://youtu.be/oHg5SJYRHA0?si=8V0u6HTN53GsYtJ7)
 
 Feel free to explore my repositories and reach out if you’re interested in collaborating!
