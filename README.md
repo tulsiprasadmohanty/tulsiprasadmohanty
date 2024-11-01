@@ -1,4 +1,4 @@
-# Hi there, I'm [Your Name] 👋
+# Hi there, I'm Tulsi Prasad Mohanty 👋
 
 ## 💻 About Me
 I'm a passionate developer and machine learning enthusiast with a knack for creating solutions in computer vision, gaming mods, and deep learning. I love experimenting with new technologies and constantly improving my skills by working on diverse projects.
