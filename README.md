@@ -27,6 +27,6 @@ I'm a passionate developer and machine learning enthusiast with a knack for crea
 ## 📫 Let's Connect!
 - **LinkedIn**: [Tulsi Prasad Mohanty](https://www.linkedin.com/in/tulsi-prasad-mohanty-96ab48214/)
 - **Twitter**: [_Super_Vibe_](https://x.com/_Super_Vibe_)
-- **Website**: [Your Personal Site or Blog](https://youtu.be/oHg5SJYRHA0?si=8V0u6HTN53GsYtJ7)
+- **Website**: [Blog](https://youtu.be/oHg5SJYRHA0?si=8V0u6HTN53GsYtJ7)
 
 Feel free to explore my repositories and reach out if you’re interested in collaborating!
